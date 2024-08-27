@@ -1,0 +1,17 @@
+Script started on Tue Aug 27 14:53:05 2024
+[1m[7m%[27m[1m[0m                                                                 [0m[27m[24m[J(base) arttuputtonen@Arttus-MacBook-Pro part12-containers-applications % [K[?2004h[7mdocker run -it ubuntu bash[27m[26D[27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+[?2004h]0;root@f486d8a03a59: /root@f486d8a03a59:/# [7mmkdir -p /usr/src/app[27m
+[Aroot@f486d8a03a59:/# mkdir -p /usr/src/app
+[A
+[?2004l[?2004h]0;root@f486d8a03a59: /root@f486d8a03a59:/# [K[7mtouch /usr/src/app/index.js[27m
+[Aroot@f486d8a03a59:/# touch /usr/src/app/index.js
+[A
+[?2004l[?2004h]0;root@f486d8a03a59: /root@f486d8a03a59:/# [K[7mecho "console.log('Hello, Docker!');" > /usr[27m[7m/[27m[7m/src/app/index.js[27m
+[A[Aroot@f486d8a03a59:/# echo "console.log('Hello, Docker!');" > /usr/src/app/index.js
+[A
+[?2004lbash: !': event not found
+[?2004h]0;root@f486d8a03a59: /root@f486d8a03a59:/# [Ked xit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                 [0m[27m[24m[J(base) arttuputtonen@Arttus-MacBook-Pro part12-containers-applications % [K[?2004heexit[?2004l
+
+Script done on Tue Aug 27 14:54:00 2024
